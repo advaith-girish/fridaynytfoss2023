@@ -1,0 +1,26 @@
+{
+  "name": "fridayfossnight1",
+  "version": "1.0.0",
+  "description": "Management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/advaith-girish/fridaynytfoss2023.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/advaith-girish/fridaynytfoss2023/issues"
+  },
+  "homepage": "https://github.com/advaith-girish/fridaynytfoss2023#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.3",
+    "nodemon": "^3.0.1"
+  }
+}
